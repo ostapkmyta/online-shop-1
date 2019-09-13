@@ -54,5 +54,12 @@
         "image": "tesla-roadster.jpg",
         "description": "Best sports car in the World",
         "price": 249999.99
+    },
+    {
+        "id": "9",
+        "title": "Villa by the sea",
+        "image": "villa.jpg",
+        "description": "Nice house face the sea",
+        "price": 1000000.99
     }
 ]

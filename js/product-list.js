@@ -4,6 +4,7 @@ class ProductList {
     fetch(productsUrl)
       .then(result => result.json())
       .then(products => {
+        products.sort( ( a, b) => a.price - b.price );
         this.products = products;
         this.renderProducts(renderContainer, products);
         this.addEventListeners();
@@ -19,7 +20,7 @@ class ProductList {
                   <div class="card product">
                     <img class="card-img-top" src="img/products/${
                       product.image
-                    }" 
+                    }"
                         alt="${product.title}">
                     <div class="card-body">
                       <h4 class="card-title">${product.title}</h4>
