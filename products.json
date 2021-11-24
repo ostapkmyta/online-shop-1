@@ -3,7 +3,7 @@
         "id": "1",
         "title": "Large drone",
         "image": "drone-large.jpg",
-        "description": "Large drone for most critical missions. Can carry load.",
+        "description": "Large drone for most critical missions.",
         "price": 499.99
     },
     {
@@ -17,7 +17,7 @@
         "id": "3",
         "title": "Blue drone",
         "image": "drone-blue.jpg",
-        "description": "Nice-looking drone in blue color. Has built-in HD camera",
+        "description": "Nice-looking drone in blue colora",
         "price": 249.99
     },
     {
@@ -43,23 +43,31 @@
     },
     {
         "id": "7",
-        "title": "Tesla Model X",
-        "image": "tesla-x.jpg",
-        "description": "Best crossover in the World",
-        "price": 99999.99
+        "title": "Hand-control drone",
+        "image": "drone.jpg",
+        "description": "Drone moves as your hand",
+        "price": 300.00
     },
     {
         "id": "8",
-        "title": "Tesla Roadster",
-        "image": "tesla-roadster.jpg",
-        "description": "Best sports car in the World",
-        "price": 249999.99
+        "title": "DJI Mavic pro",
+        "image": "dji.jpg",
+        "description": "DJI Mavic 2016",
+        "price": 1000.00
     },
     {
         "id": "9",
-        "title": "Villa by the sea",
-        "image": "villa.jpg",
-        "description": "Nice house face the sea",
-        "price": 1000000.99
+        "title": "Eagle",
+        "image": "eagle.jpg",
+        "description": "Gray drone.",
+        "price": 99.00
+    },
+    {
+        "id": "10",
+        "title": "Drone E98",
+        "image": "e98.png",
+        "description": "Drone with hidden wings",
+        "price": 100.00
     }
+    
 ]
